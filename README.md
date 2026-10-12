@@ -1,4 +1,3 @@
 # Baustellen-Webcam
-Wir sind die Bauarbeiter-Stasi
+Wir sind die Livestreambeauftragten
 
-was zum f*ck ?!! 

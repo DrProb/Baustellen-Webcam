@@ -4,7 +4,7 @@ Offizielles Git-Repo des Informatik Projektes
 ## Allgemein zu tun:
 
 README.md updaten und wichtiges eintragen
-Alle in das repo einladen
+Jeden Schritt des Projektes dokumentieren (z.B. Word Datei)
 
 ## Team A
 

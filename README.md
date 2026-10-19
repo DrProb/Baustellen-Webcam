@@ -29,5 +29,6 @@ Alle in das repo einladen
     - Webseite für das aktuelle Bild designen und bauen (evtl. auch Zeitraffer als live feature)
   ### Das hier ist bereits erledigt:
     - website folder und template wurden für später erstellt
-    - server auf raspberry pi wurde aufgesetzt und bereinigt
+    - server auf raspberry pi wurde aufgesetzt und bereinigt + der server wurde komplett neu aufgesetzt
     - erste testwebsite zum laufen bekommen (intern über gleiches netzwerk abrufbar)
+    - das git-repo wurde auf den Server geklont und kann nun mit `git pull` gepullt werden

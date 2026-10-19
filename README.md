@@ -24,7 +24,7 @@ Alle in das repo einladen
 
   ### Zu tun:
     - eigenes Testnetz für beide Pis einrichten
-    - Upload per SFTP einrichten
+    - Upload per SFTP einrichten (fast fertig)
     - Zeitraffer script erstellen
     - Webseite für das aktuelle Bild designen und bauen (evtl. auch Zeitraffer als live feature)
   ### Das hier ist bereits erledigt:
@@ -32,3 +32,5 @@ Alle in das repo einladen
     - server auf raspberry pi wurde aufgesetzt und bereinigt + der server wurde komplett neu aufgesetzt
     - erste testwebsite zum laufen bekommen (intern über gleiches netzwerk abrufbar)
     - das git-repo wurde auf den Server geklont und kann nun mit `git pull` gepullt werden
+    - der benutzer "webcam-upload" für das SFTP wurde eingerichtet
+    - ein ordner wurde für die bilder erstellt und so eingestellt, dass der SFTP Nutzer nur diesen Ordner sehen kann und nur dort Sachen hochladen kann

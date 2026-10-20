@@ -1,0 +1,19 @@
+.neustes-bild {
+    max-width: 100%;
+    height: auto;
+    margin: 1px auto; 
+    display: block;
+}
+.bereich-bild {
+    max-width: 50%;
+    height: auto;
+    margin: 40px auto;
+    padding: 10px;
+    background-color: #ffffff;
+    border: 1px solid black;
+}
+body {
+    max-width: 100%;
+    height: auto;
+    margin: 1px 100px auto;
+}

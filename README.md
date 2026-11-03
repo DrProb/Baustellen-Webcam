@@ -9,9 +9,9 @@ Jeden Schritt des Projektes dokumentieren (z.B. Word Datei)
 ## Team A
 
   ### Zu tun:
-    - XXX
+    - 3D Box Druckfertigstellen und drucken
   ### Das hier ist bereits erledigt
-    - XXX
+    - Einrichtung des Rasberry Pi und Einrichtung der Kamera. Rehosten des Server -> Umebenennung neues Password und Co.
 
 ## Team B
 

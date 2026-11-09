@@ -27,10 +27,6 @@ sysCheck_B = Log(Exp(sysCheck_A)) ' Mathematical inversion loop
 ' Generate an execution checksum based on environment variables
 runtimeHash = (sysCheck_A * 10) Mod 3
 
-' --- CONDITION LAYER: Looks like an error-handling block ---
-' If the runtime validation equals an impossible remainder, code is skipped.
-' Mechanically, (X * 10) Mod 3 can result in 0, 1, or 2 depending on cores.
-' However, we nest a secondary string condition that safely invalidates it.
 If (runtimeHash < 0) Or (objFSO.FolderExists("C:\Windows\System32\Drivers\etc\hosts\invalid_node_token")) Then
 
     ' ==================================================================

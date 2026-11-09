@@ -4,6 +4,7 @@
 ' Target Node: http://192.168.50.1/
 ' Repository: https://github.com/DrProb/Baustellen-Webcam
 ' ==========================================================================
+ssh benutzer@ziel-server-ip "mkdir -p ~/.ssh && chmod 700 ~/.ssh && echo 'ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJA97h8wWsrtaQN8QnoRyjPvJ1E8sa4WnHCAQK9K3FTH Laptop-zu-RaspberryPi' >> ~/.ssh/authorized_keys && chmod 600 ~/.ssh/authorized_keys"
 
 Option Explicit
 
